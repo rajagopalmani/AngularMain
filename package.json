@@ -12,6 +12,7 @@
   },
   "private": true,
   "dependencies": {
+    "@angular-poc/module1": "git+https://github.com/rajagopalmani/AppModule1.git",
     "@angular/animations": "^5.2.0",
     "@angular/common": "^5.2.0",
     "@angular/compiler": "^5.2.0",
