@@ -9,8 +9,5 @@
   "exclude": [
     "test.ts",
     "**/*.spec.ts"
-  ],
-   "files": [
-    "../node_modules/@angular-poc/module1/release/dist/exported.module.d.ts"
   ]
 }
